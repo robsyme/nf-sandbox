@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Plugin-Id: nf-sandbox
+Plugin-Version: 1.0.0
+Plugin-Class: nextflow.sandbox.SandboxPlugin
+Plugin-Provider: nextflow
+Plugin-Requires: >=24.01.0-edge
